@@ -98,10 +98,5 @@
             </ScrollViewer>
         </Border>
 
-        <!-- Текст когда фото не выбрано -->
-        <TextBlock Grid.Column="1" Grid.Row="0" Grid.RowSpan="3" 
-                   Text="Выберите фотографию для просмотра" 
-                   HorizontalAlignment="Center" VerticalAlignment="Center" 
-                   FontSize="16" Foreground="Gray"/>
     </Grid>
 </Window>
